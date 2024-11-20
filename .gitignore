@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ExpenseManagerAPI/.vs/ExpenseManagerAPI
+/ExpenseManagerAPI/ExpenseManagerAPI/bin/Debug/net6.0
+/ExpenseManagerAPI/ExpenseManagerAPI/obj
